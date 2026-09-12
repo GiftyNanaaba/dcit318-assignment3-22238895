@@ -1,0 +1,5 @@
+101,Alice Smith,84
+102,John Mensah,76
+103,Akosua Boateng,65
+104,Michael Owusu,55
+105,Daniel Asare,42
