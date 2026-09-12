@@ -1,9 +1,6 @@
-DCIT 318 	6	6 PROGRAMMING II
-ASSIGNMENT 3
-
-Student Name: Enoch Opoku
-Student ID: -22033645
-Repository: dcit318-assignment3--22033645
+Student Name: Gifty Nana Aba Pobi
+Student ID: - 22238895
+Repository: dcit318-assignment3-22238895
 
 This repository contains five separate C# console applications, each demonstrating specific C# concepts required by the assignment.
 
